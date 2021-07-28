@@ -1,3 +1,4 @@
 ### Olá tudo bem? 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeais)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermeais&show_icons=true&theme=radical" ></img>
