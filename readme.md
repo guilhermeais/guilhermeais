@@ -2,7 +2,7 @@
 
 #### Seja bem vindo ao meu perfil!
 
-Sou um desenvolvendor Fullstack especializado em NodeJS, tenho mais experiência com BackEnd, porém, agora estou me expondo mais a projetos FrontEnd.
+Desenvolvendor Fullstack focado e apaixonado por NodeJS.
 
 <div style="display: inline-block">
 	<img heigth="180em" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermeais&show_icons=true&hide_border=true" ></img>
