@@ -26,4 +26,7 @@ Desenvolvendor Fullstack focado e apaixonado por NodeJS.
 |--|--
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
