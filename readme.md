@@ -10,19 +10,19 @@ Desenvolvendor Fullstack focado e apaixonado por NodeJS.
 </div>
 
 **Linguagens de Programação**
-<img alt="TS" title="TypeScript" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Dart" title="Dart" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> <small>*Learning</small>
+<img  alt="TS" title="TypeScript" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Dart" title="Dart" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> <small>*Learning</small>
 |--|--|--
 
 **Frameworks/Libraries**
-<img  alt="Guliherme-vue"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />|<img alt="Guliherme-adonis" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />|<img alt="Guliherme-Express"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />|<img  alt="Guliherme-bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />|<img alt="Guliherme-flutter" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /><small>*Learning</small>
+<img  alt="Guliherme-vueJS" title="Vue"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />|<img title="AdonisJS" alt="Guliherme-adonis" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />|<img title="ExpressJS" alt="Guliherme-Express"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />|<img  alt="Guliherme-bootstrap" width="40px" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />|<img alt="Guliherme-flutter" width="40px" title="Flutter"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /><small>*Learning</small>
 |--|--|--|--|--
 
 **Banco de Dados**
-<img alt="Guliherme-MySQL"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />|<img alt="Guliherme-PostgresSQL"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />|<img alt="Guliherme-MongoDB"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img alt="Guliherme-MySQL" title="MySQL" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />|<img alt="Guliherme-PostgresSQL" title="PostgresSQL"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />|<img title="MongoDB" alt="Guliherme-MongoDB"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 |--|--|--
 
 **Ferramentas**
-<img alt="Guliherme-VsCODE"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />|<img  alt="Guliherme-Git"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="Guliherme-VsCODE"  width="40px" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />|<img  alt="Guliherme-Git" title="Git"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 |--|--
 
 <!--START_SECTION:waka-->
