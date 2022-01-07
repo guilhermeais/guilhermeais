@@ -2,6 +2,8 @@
 
 #### Seja bem vindo ao meu perfil!
 
+Sou um desenvolvendor Fullstack especializado em NodeJS, tenho mais experiência com BackEnd, porém, agora estou me expondo mais a projetos FrontEnd.
+
 <div style="display: inline-block">
 	<img heigth="180em" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermeais&show_icons=true&hide_border=true" ></img>
 	<img heigth="180em" alt="Guilherme's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeais&layout=compact" ></img>
