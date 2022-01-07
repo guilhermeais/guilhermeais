@@ -24,3 +24,6 @@ Desenvolvendor Fullstack focado e apaixonado por NodeJS.
 **Ferramentas**
 <img alt="Guliherme-VsCODE"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />|<img  alt="Guliherme-Git"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 |--|--
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
