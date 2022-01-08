@@ -25,6 +25,7 @@ Desenvolvendor Fullstack focado e apaixonado por NodeJS.
 <img alt="Guliherme-VsCODE"  width="40px" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />|<img  alt="Guliherme-Git" title="Git"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 |--|--
 
+**Estatísticas**
 <!--START_SECTION:waka-->
 ```text
 Dart   2 hrs 26 mins   █████████████████████████   100.00 % 
