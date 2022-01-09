@@ -11,7 +11,7 @@ Desenvolvendor Fullstack focado e apaixonado por NodeJS.
 </div>
 
 **Linguagens de Programação**
-<img  alt="TS" title="TypeScript" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Dart" title="Dart" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> <small>*Learning</small>
+<img  alt="TS" title="TypeScript" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />|<img alt="JS" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">|<img alt="Dart" title="Dart" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> <small>*Learning</small>
 |--|--|--
 
 **Frameworks/Libraries**
