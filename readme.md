@@ -1,4 +1,5 @@
-### Olá, tudo bem? <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />
+### Olá, tudo bem? <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40" />
+
 
 #### Seja bem vindo ao meu perfil!
 
