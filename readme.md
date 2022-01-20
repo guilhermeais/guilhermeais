@@ -29,10 +29,11 @@ Desenvolvendor Fullstack focado e apaixonado por NodeJS.
 **Estatísticas**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   15 hrs 27 mins  ██████████████▓░░░░░░░░░░   58.45 % 
-Vue.js       10 hrs 32 mins  ██████████░░░░░░░░░░░░░░░   39.87 % 
-Bash         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Dart         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Vue.js       17 hrs 49 mins  ████████████▓░░░░░░░░░░░░   50.66 % 
+JavaScript   16 hrs 53 mins  ████████████░░░░░░░░░░░░░   48.00 % 
+Bash         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Dart         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+SCSS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 <!--END_SECTION:waka-->
 
