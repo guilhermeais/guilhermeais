@@ -29,13 +29,11 @@ Desenvolvendor Fullstack focado e apaixonado por NodeJS.
 **Estatísticas**
 <!--START_SECTION:waka-->
 ```text
-Total: 27 hrs 8 mins
-
-JavaScript   23 hrs 29 mins  █████████████████████▓░░░   86.17 % 
-Python       1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-JSON         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Markdown     28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Bash         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+JavaScript   27 hrs 18 mins  █████████████████████▒░░░   85.41 % 
+Python       1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Markdown     48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+SQL          42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+JSON         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 <!--END_SECTION:waka-->
 
