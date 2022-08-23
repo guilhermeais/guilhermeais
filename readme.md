@@ -3,7 +3,7 @@
 
 #### Seja bem vindo ao meu perfil!
 
-Desenvolvendor Fullstack focado em NodeJS.
+Desenvolvendor Backend focado em NodeJS.
 
 <div style="display: inline-block">
 	<img heigth="180em" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermeais&show_icons=true&hide_border=true" ></img>
